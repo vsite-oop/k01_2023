@@ -37,7 +37,7 @@ namespace all_tests
 				Assert::AreEqual(3, arr[5]);
 			}
 		}
-
+		
 		// 12 bodova
 		TEST_METHOD(test_02)
 		{
@@ -99,5 +99,5 @@ namespace all_tests
 			polyline p3 = p1;
 			Assert::AreEqual(30., p3.length());
 		}
-	};
+	};*/
 }
