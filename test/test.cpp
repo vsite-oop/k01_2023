@@ -3,6 +3,9 @@
 
 #include <type_traits>
 
+//Ne znam smijem li includati u kolokvij, ali mi je javljalo grešku
+#include <numbers>
+
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 using namespace std::string_literals;
 
