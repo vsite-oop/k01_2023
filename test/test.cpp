@@ -2,9 +2,11 @@
 #include "../app/app.h"
 
 #include <type_traits>
+#include<numbers>
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 using namespace std::string_literals;
+using namespace ko1;
 
 namespace all_tests
 {
