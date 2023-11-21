@@ -1,6 +1,7 @@
 #include "CppUnitTest.h"
 #include "../app/app.h"
 
+#include <numbers>
 #include <type_traits>
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
