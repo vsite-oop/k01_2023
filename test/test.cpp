@@ -1,5 +1,6 @@
 #include "CppUnitTest.h"
 #include "../app/app.h"
+#include <numbers>
 
 #include <numbers>
 #include <type_traits>
